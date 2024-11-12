@@ -1,0 +1,49 @@
+body{
+    background-color: grey;
+    margin: 0;
+}
+
+#headTop{
+    
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+#mainPost{
+    padding-top: 40px;
+    margin:auto;
+    width: 500px;
+}
+#imagePost{
+    margin-bottom: 40px;
+    background-color: white;
+}
+
+
+#sides{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div.bottomText p{
+    padding: 10px;    
+}
+
+#bottomPage{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: left;
+    margin-top: 20px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
